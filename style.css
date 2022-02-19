@@ -29,13 +29,20 @@ body{
 }
 
 
-
-
 @media (max-width: 800px) {
+    .logo{
+        width: 20%;
+    }
+    .title{
+        font-size: 20px;
+    }
     .col-4{
         width: 100%;
     }
     .col-3{
+        width: 100%;
+    }
+    #img{
         width: 100%;
     }
 }
